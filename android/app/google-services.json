@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "709636693794",
+    "firebase_url": "https://foodpro-32445-default-rtdb.firebaseio.com",
+    "project_id": "foodpro-32445",
+    "storage_bucket": "foodpro-32445.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709636693794:android:78bd43da647349c3874f7b",
+        "android_client_info": {
+          "package_name": "com.andratec.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709636693794-ar44jovtbqvecuaevnv2s88bo7mmdltt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.andratec.customer",
+            "certificate_hash": "6704c9982189d766439721c739abfe82ef0b2e39"
+          }
+        },
+        {
+          "client_id": "709636693794-4i20e3bqpfd8tkpij6ao3ag5igb1rne0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjvzskb1Y9NABLwE5wUzJnRN--NxdUA7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709636693794-4i20e3bqpfd8tkpij6ao3ag5igb1rne0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709636693794:android:4b980b49ac36410e874f7b",
+        "android_client_info": {
+          "package_name": "com.andratec.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709636693794-cq90idaaqkr5lpiarjkj4qebg9ink16r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.andratec.driver",
+            "certificate_hash": "6704c9982189d766439721c739abfe82ef0b2e39"
+          }
+        },
+        {
+          "client_id": "709636693794-4i20e3bqpfd8tkpij6ao3ag5igb1rne0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjvzskb1Y9NABLwE5wUzJnRN--NxdUA7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709636693794-4i20e3bqpfd8tkpij6ao3ag5igb1rne0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709636693794:android:fd2149e3c451a366874f7b",
+        "android_client_info": {
+          "package_name": "com.andratec.restaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709636693794-msm874nghrppuuqkt7b5surj3e9hmc75.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.andratec.restaurant",
+            "certificate_hash": "6704c9982189d766439721c739abfe82ef0b2e39"
+          }
+        },
+        {
+          "client_id": "709636693794-4i20e3bqpfd8tkpij6ao3ag5igb1rne0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjvzskb1Y9NABLwE5wUzJnRN--NxdUA7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709636693794-4i20e3bqpfd8tkpij6ao3ag5igb1rne0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
